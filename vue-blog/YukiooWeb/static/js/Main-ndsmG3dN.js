@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-NGi3vMWx.js";import{o as e,c as r,D as s}from"./@vue-HJvXqiKQ.js";const t=o({},[["render",function(o,t){return e(),r("main",null,[s(o.$slots,"default",{},void 0,!0)])}],["__scopeId","data-v-2500d452"]]);export{t as M};

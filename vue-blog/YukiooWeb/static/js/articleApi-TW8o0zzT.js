@@ -1,0 +1,1 @@
+import{i as t}from"./index-ex-BpVPP.js";function r(r){return t({url:"/visitor/getDirArticle",method:"GET",params:r})}function i(r){return t({url:"/visitor/getArticleById",method:"POST",data:r})}function a(r){return t({url:"/visitor/articleVisit",method:"POST",data:r})}function e(r){return t({url:"/visitor/fullSearch",method:"POST",data:r})}export{a,i as b,e as f,r as g};

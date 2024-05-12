@@ -1,0 +1,1 @@
+import{i as r}from"./index-ex-BpVPP.js";function t(t){return r({url:"/visitor/getGalleryList",method:"GET",params:t})}function a(t){return r({url:"/visitor/getGallery",method:"POST",data:t})}export{a,t as g};
