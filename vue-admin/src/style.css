@@ -1,0 +1,27 @@
+:root {
+    --theme-main-color: #ffffff;
+    /* --theme-secondary-color: #6495ED; */
+    --theme-secondary-color: #647aed;
+    --theme-thrid-color: #fbfbfb;
+
+    --text-secondary-color: #ffffff;
+
+    --boxshadow-main-color: #AAAAAA;
+    --boxshadow-secondary-color: #c1c1c1;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    line-height: 2;
+    background: var(--theme-thrid-color);
+}
+.container-box {
+    padding: 0px 30px;
+}
+.container {
+    background: var(--theme-main-color);
+    border-radius: 6px;
+    box-shadow: 0px 0px 5px -2px var(--boxshadow-main-color);
+}
